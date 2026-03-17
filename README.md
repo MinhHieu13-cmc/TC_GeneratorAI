@@ -56,12 +56,5 @@ npm install
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) to start generating tests.
-
-## 💡 The Interview Angle
-
-> **Why Next.js 15 over a traditional Python AI framework (like FastAPI/Streamlit)?**
-> 
-> Chose Next.js 15 to ensure **full alignment with Neos's web-focused tech stack**. By using TypeScript and React/Next.js, this tool provides a seamless integration path for existing React/TS developers, allowing AI features to be integrated directly into the core product without adding infrastructure complexity or language fragmentation.
-
 ---
 
