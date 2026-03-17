@@ -1,15 +1,19 @@
-# Context-Aware RAG Test Case Generator
+<div align="center">
 
-A high-performance Full-Stack AI application designed to automatically generate syntactically correct unit tests by understanding your project's specific context and business logic.
+# 🤖 Context-Aware RAG Test Case Generator
 
-## 🚀 Modern Tech Stack
+**A high-performance Full-Stack AI application designed to automatically generate syntactically correct unit tests by understanding your project's specific context and business logic.**
 
-- **Framework**: [Next.js 15 (App Router)](https://nextjs.org/) - Utilizing the latest React features and server actions.
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) - For a sleek, modern UI.
-- **AI Orchestration**: [Vercel AI SDK](https://sdk.vercel.ai/) - Real-time streaming and robust chat management.
-- **LLM**: [Google Gemini 2.5 Flash](https://aistudio.google.com/) - Cutting-edge inference for code generation.
-- **Vector Database**: [Qdrant](https://qdrant.tech/) - High-efficiency vector storage for retrieval.
-- **Embeddings**: `gemini-embedding-001` - Industry-standard text vectorization.
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-latest-black?style=for-the-badge&logo=vercel&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
 
 ## 🏗️ Architecture: The RAG Workflow
 
